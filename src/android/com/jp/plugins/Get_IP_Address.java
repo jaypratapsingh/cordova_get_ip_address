@@ -1,7 +1,7 @@
 
 //Plugins created by Jay Pratap Singh
 
-package com.jp.plugins.getipaddress;
+package com.jp.plugins;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
