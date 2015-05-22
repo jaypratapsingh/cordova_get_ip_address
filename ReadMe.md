@@ -5,13 +5,13 @@ By using this plugin you can get the ip address of your devices.
 
 Install this plugin using:
 
-cordova plugin add com.jp.plugins.getipaddress
+cordova plugin add com.jp.plugins
 
 
 
 Remove Plugins :
 
-cordova plugin remove com.jp.plugins.getipaddress
+cordova plugin remove com.jp.plugins
 
 
 
