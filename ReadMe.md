@@ -1,21 +1,21 @@
-*************Cordova : Get IP Address of your Device*****************
+# *************Cordova : Get IP Address of your Device***************** #
 
 By using this plugin you can get the ip address of your devices.
 
 
-Install this plugin using:
+## Install this plugin using:
 
 cordova plugin add com.jp.plugins
 
 
 
-Remove Plugins :
+## Remove Plugins :
 
 cordova plugin remove com.jp.plugins
 
 
 
-Put the below code in your javascript code to get the ip address: 
+## Put the below code in your javascript code to get the ip address: 
 
 getdeviceip.get_ip(
 	function(ipaddress)
@@ -27,3 +27,8 @@ getdeviceip.get_ip(
             console.log(error);
         }
     );
+
+
+
+
+> GitHub URL: https://github.com/jaypratapsingh/cordova_get_ip_address
