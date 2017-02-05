@@ -1,4 +1,4 @@
-# *************Cordova : Get IP Address of your Device***************** #
+# *******Cordova : Get IP Address of your Device*********** #
 
 By using this plugin you can get the ip address of your devices.
 
@@ -27,6 +27,9 @@ getdeviceip.get_ip(
             console.log(error);
         }
     );
+
+
+
 
 
 
